@@ -50,4 +50,4 @@ My personal VSCode setup optimized for Vim users, featuring custom keybindings a
 - Stay in visual mode while indenting (`<`, `>`)
 - Move selected lines (`J`, `K`)
 - Toggle comments (`<leader>c`)
-- Quick escape (`jj`)
+- Quick escape (`jk`)
